@@ -1,1 +1,1 @@
-A place to host media files for my blog and other places.
+A place to host Media files for use for my site and other websites.
